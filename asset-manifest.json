@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/miss-mo-app/static/css/main.6338053b.css",
+    "main.js": "/miss-mo-app/static/js/main.01c5d7c5.js",
+    "index.html": "/miss-mo-app/index.html",
+    "main.6338053b.css.map": "/miss-mo-app/static/css/main.6338053b.css.map",
+    "main.01c5d7c5.js.map": "/miss-mo-app/static/js/main.01c5d7c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6338053b.css",
+    "static/js/main.01c5d7c5.js"
+  ]
+}
